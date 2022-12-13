@@ -1,6 +1,6 @@
 {
    "version": 2,
-   "name": "Teraka server",
+   "name": "teraka_server",
    "builds": [
       { "src": "indexs.js", "use": "@vercel/node" }
    ],
